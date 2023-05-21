@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araibkhan" alt="araibkhan" /></a> </p>
-
+  <img align = "right" src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/using%20comp%201.gif" alt="Description of the image" width="350px">
 - 🔭 I’m currently working on **Accounting Application.**
 
 - 🌱 I’m currently learning **Next Framework.**
