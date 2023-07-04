@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Araib Khan</h1>
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araibkhan" alt="araibkhan" /></a> </p>
-  <img align = "right" src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/using%20comp%201.gif" alt="Description of the image" width="350px">
+<img align = "right" src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/using%20comp%201.gif" alt="Description of the image" width="350px">
+
 - 🔭 I’m currently working on **Accounting Application.**
 
-- 🌱 I’m currently learning **Next Framework.**
+- 🌱 I’m currently learning **React.js.**
 
 - 👯 I’m looking to collaborate on **React.js & Node.js.**
 
 - 📫 How to reach me **AraibKhan93@gmail.com**
 
-- ⚡ Fun fact **Fun Fact**
+- ⚡ Fun fact: The term "debugging" originated from an actual insect. In the early days of computing, a Harvard Mark II computer had a mechanical failure, and upon investigation, technicians found a moth trapped between the relays. They removed the moth and documented the incident, coining the term "debugging" to refer to the process of identifying and fixing software defects or "bugs." Since then, the term has become widely used in the field of programming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=araibkhan&show_icons=true&locale=en" alt="araibkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=araibkhan&" alt="araibkhan" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araibkhan" alt="araibkhan" /></a> </p>
