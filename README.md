@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Araib Khan</h1>
-<h3 align="center">A passionate full stack developer from Pakistan.</h3>
+<h3 align="center">A passionate web developer from Pakistan.</h3>
 
 <img align = "right" src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/using%20comp%201.gif" alt="Description of the image" width="350px">
 
-- 🔭 I’m currently working on **Accounting Application.**
+- 🔭 I’m currently working on **Small React Projects**
 
 - 🌱 I’m currently learning **React.js.**
 
